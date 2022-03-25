@@ -1,0 +1,8 @@
+.mainContainer{
+  width:100% !important;
+  height:100vh !important;
+  display:flex;
+  flex-direction:column;
+  background: #7eb1e0;
+  background: #F0F5F9;
+}
