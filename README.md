@@ -20,3 +20,7 @@ as the main language, I use the following:
     - [ ] admin_dashboard
     - [ ] api
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Acknowledgments
+Thanks for visiting to my github repo. :)
