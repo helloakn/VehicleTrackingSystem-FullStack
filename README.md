@@ -1,6 +1,7 @@
 <div id="top"></div> 
 
 # Vehicle Tracking System - FullStack
+**This is sample Project** so you can learn NextJs and NodeJs for api and api integration.  
 FullStack Vehicle Tracking System (Include API for Vehicle and API for Admin as well as Dashboard)  
 
 ### Built With
