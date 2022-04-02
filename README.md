@@ -1,6 +1,8 @@
 <div id="top"></div> 
 
 # Vehicle Tracking System - FullStack
+[![Star Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Star&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhelloakn%2FVehicleTrackingSystem-FullStack)](https://github.com/helloakn/VehicleTrackingSystem-FullStack) [![Licence](https://img.shields.io/badge/dynamic/json?color=informational&label=LICENCE&query=license.name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhelloakn%2FVehicleTrackingSystem-FullStack)](https://github.com/helloakn/VehicleTrackingSystem-FullStack) [![Language](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Language&query=language&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhelloakn%2FVehicleTrackingSystem-FullStack)](https://github.com/helloakn/VehicleTrackingSystem-FullStack) 
+
 **This is sample Project** so you can learn NextJs and NodeJs for api and api integration.  
 FullStack Vehicle Tracking System (Include API for Vehicle and API for Admin as well as Dashboard)  
 
